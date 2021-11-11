@@ -21,3 +21,16 @@ body {
 * {
   box-sizing: border-box;
 }
+
+.body p {
+  margin: 20px 0;
+}
+
+.body ul {
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+.body li {
+  margin: 10px 0;
+}
